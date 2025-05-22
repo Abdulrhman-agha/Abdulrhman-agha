@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdulrhman-agha
 - 👀 I’m interested in ... coding & AI
 - 🌱 I’m currently learning ...everything
-- 💞️ I’m looking to collaborate on ...personal busniss
+- 💞️ I’m looking to collaborate on ...personal business
 - 📫 How to reach me ... abderrhmancontact@gmail.com
 
 <!---
